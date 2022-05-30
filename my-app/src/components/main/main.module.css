@@ -1,0 +1,13 @@
+.mainContainer{
+    background-color: rgba(247, 240, 239, 0.967);
+
+}
+.farmerInfo{
+    margin-top: 50px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

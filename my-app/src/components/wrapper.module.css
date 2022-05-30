@@ -1,0 +1,6 @@
+.wrapper{
+    display: grid;
+    column-gap: 10px;
+    /* background-color: black; */
+    grid-template-columns: 0.5fr 8fr;
+}

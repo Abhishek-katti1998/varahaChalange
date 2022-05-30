@@ -1,0 +1,22 @@
+.map{
+  width:500px;
+    position: relative;
+    right:350px;
+    bottom: 200px;
+    /* bottom: 70px;
+    right:100px;
+    width:70%;
+    height: 80%;
+    overflow: hidden; */
+}
+.react-datepicker{
+    left:900px;
+}
+input{
+    height:30px;
+}
+.Dropdown-root{
+   
+    /* width: 200px; */
+    right: 40px;
+}

@@ -1,0 +1,38 @@
+.headerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(56, 113, 207);
+    align-items: center;
+}
+h3{
+    color:white
+}
+.headerInfoContainer{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.flexItems{
+display: flex;
+flex-flow: column wrap;
+
+
+}
+.flexItems p{
+    position: relative;
+    top:10px;
+    color: rgb(56, 113, 207);
+
+}
+.flexItems h1{
+position: relative;
+bottom: 30px;
+color: rgb(56, 113, 207);
+}
+.rigthChild{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+}
